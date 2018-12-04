@@ -1,0 +1,4 @@
+damaged
+defective
+good
+nothing
